@@ -1,0 +1,21 @@
+
+If 12 men or 16 women can do a work in 172 days, how long will 21 men and 15 women to do the same work?
+
+Two pipes M and N can fill a tank in 22 hours and 33 hours respectively. In how much time will the tank be full, if both the pipes are opened simultaneously?
+
+3 pipes have diameters 2 cms, 3 cms and 4 cms. The ratio of water flowing through them is equal to ratio of the square of their diameters. The biggest pipe when open alone, can fill the entire pool in just 126 minutes. When all the pipes are opened together, the pool would be filled in how much time?
+
+Two trains A and B leave Kolkata for Sikkim at 8:00 pm and 8:30 pm respectively and run at 90 km/hr and 120 km/hr, respectively. At what distance from Kolkata, will the two trains meet?
+
+Simran takes twice as long to swim up as to swim down the river and has a speed of 12 km/hr in still water. What is river’s speed?
+
+Find average of natural numbers from 1 to 65?
+
+In a race, average speed of total 75 bikes is 35km/hr. The average speed of red bikes is 55 km/hr. If average speed of green bikes is 30km/hr, then how many green bikes are there?
+
+In a palace, supplies are available for 35 days for only 75 people. 15 Guests arrive in the palace for vacation on day 1 itself. For how many days will these supplies be sufficient for all these people?
+
+Suresh keeps all his socks in a single drawer. He has 24 pairs of white socks and 18 pairs of grey socks. Suresh picks 3 socks randomly. Find the possibility of Suresh choosing a matching pair.
+
+Ramesh can do a work in 15 days. Vijay and Ramesh together do the same work in 10days. They received Rs. 1155 for that work. What is share of Ramesh and Vijay?
+
